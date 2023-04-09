@@ -1,0 +1,164 @@
+##Output of: oneprocess 10000 19 1
+Hi I am process 7895 with return arg 1 and my parent is 1427
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[34]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[221]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[348]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[640]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[1251]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[1428]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[1678]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[1837]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[1977]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2175]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2314]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2383]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2488]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2567]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2796]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[2962]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[3101]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[3250]
+Hi I am process 7895 with return arg 1 and I found the hidden key in position A[3465]
+
+##output of: onespawnsone 10000 19 50
+
+Hi I am process 7896 with return arg 0 and my parent is 1427
+Hi I am process 7896 with return arg 0 and I found the hidden key in position A[34]
+Hi I am process 7897 with return arg 1 and my parent is 7896
+Hi I am process 7897 with return arg 1 and I found the hidden key in position A[221]
+Hi I am process 7897 with return arg 1 and I found the hidden key in position A[348]
+Hi I am process 7898 with return arg 2 and my parent is 7897
+Hi I am process 7899 with return arg 3 and my parent is 7898
+Hi I am process 7899 with return arg 3 and I found the hidden key in position A[640]
+Hi I am process 7900 with return arg 4 and my parent is 7899
+Hi I am process 7901 with return arg 5 and my parent is 7900
+Hi I am process 7902 with return arg 6 and my parent is 7901
+Hi I am process 7902 with return arg 6 and I found the hidden key in position A[1251]
+Hi I am process 7903 with return arg 7 and my parent is 7902
+Hi I am process 7903 with return arg 7 and I found the hidden key in position A[1428]
+Hi I am process 7904 with return arg 8 and my parent is 7903
+Hi I am process 7904 with return arg 8 and I found the hidden key in position A[1678]
+Hi I am process 7905 with return arg 9 and my parent is 7904
+Hi I am process 7905 with return arg 9 and I found the hidden key in position A[1837]
+Hi I am process 7905 with return arg 9 and I found the hidden key in position A[1977]
+Hi I am process 7906 with return arg 10 and my parent is 7905
+Hi I am process 7906 with return arg 10 and I found the hidden key in position A[2175]
+Hi I am process 7907 with return arg 11 and my parent is 7906
+Hi I am process 7907 with return arg 11 and I found the hidden key in position A[2314]
+Hi I am process 7907 with return arg 11 and I found the hidden key in position A[2383]
+Hi I am process 7908 with return arg 12 and my parent is 7907
+Hi I am process 7908 with return arg 12 and I found the hidden key in position A[2488]
+Hi I am process 7908 with return arg 12 and I found the hidden key in position A[2567]
+Hi I am process 7909 with return arg 13 and my parent is 7908
+Hi I am process 7909 with return arg 13 and I found the hidden key in position A[2796]
+Hi I am process 7910 with return arg 14 and my parent is 7909
+Hi I am process 7910 with return arg 14 and I found the hidden key in position A[2962]
+Hi I am process 7911 with return arg 15 and my parent is 7910
+Hi I am process 7911 with return arg 15 and I found the hidden key in position A[3101]
+Hi I am process 7912 with return arg 16 and my parent is 7911
+Hi I am process 7912 with return arg 16 and I found the hidden key in position A[3250]
+Hi I am process 7913 with return arg 17 and my parent is 7912
+Hi I am process 7913 with return arg 17 and I found the hidden key in position A[3465]
+Hi I am process 7914 with return arg 18 and my parent is 7913
+Hi I am process 7915 with return arg 19 and my parent is 7914
+Hi I am process 7916 with return arg 20 and my parent is 7915
+Hi I am process 7917 with return arg 21 and my parent is 7916
+Hi I am process 7918 with return arg 22 and my parent is 7917
+Hi I am process 7919 with return arg 23 and my parent is 7918
+Hi I am process 7920 with return arg 24 and my parent is 7919
+Hi I am process 7921 with return arg 25 and my parent is 7920
+Hi I am process 7922 with return arg 26 and my parent is 7921
+Hi I am process 7923 with return arg 27 and my parent is 7922
+Hi I am process 7924 with return arg 28 and my parent is 7923
+Hi I am process 7925 with return arg 29 and my parent is 7924
+Hi I am process 7926 with return arg 30 and my parent is 7925
+Hi I am process 7927 with return arg 31 and my parent is 7926
+Hi I am process 7928 with return arg 32 and my parent is 7927
+Hi I am process 7929 with return arg 33 and my parent is 7928
+Hi I am process 7930 with return arg 34 and my parent is 7929
+Hi I am process 7931 with return arg 35 and my parent is 7930
+Hi I am process 7932 with return arg 36 and my parent is 7931
+Hi I am process 7933 with return arg 37 and my parent is 7932
+Hi I am process 7934 with return arg 38 and my parent is 7933
+Hi I am process 7935 with return arg 39 and my parent is 7934
+Hi I am process 7936 with return arg 40 and my parent is 7935
+Hi I am process 7937 with return arg 41 and my parent is 7936
+Hi I am process 7938 with return arg 42 and my parent is 7937
+Hi I am process 7939 with return arg 43 and my parent is 7938
+Hi I am process 7940 with return arg 44 and my parent is 7939
+Hi I am process 7941 with return arg 45 and my parent is 7940
+Hi I am process 7942 with return arg 46 and my parent is 7941
+Hi I am process 7943 with return arg 47 and my parent is 7942
+Hi I am process 7944 with return arg 48 and my parent is 7943
+Hi I am process 7945 with return arg 49 and my parent is 7944
+
+##output of: onespawnsmany 10000 19 50
+Hi I am process 7967 with return arg 39 and my parent is 7955
+Hi I am process 7971 with return arg 21 and my parent is 7959
+Hi I am process 7971 with return arg 21 and I found the hidden key in position A[4335]
+Hi I am process 7967 with return arg 39 and I found the hidden key in position A[7983]
+Hi I am process 7959 with return arg 6 and my parent is 7950
+Hi I am process 7962 with return arg 33 and my parent is 7949
+Hi I am process 7959 with return arg 6 and I found the hidden key in position A[1251]
+Hi I am process 7962 with return arg 33 and I found the hidden key in position A[6667]
+Hi I am process 7955 with return arg 12 and my parent is 7947
+Hi I am process 7955 with return arg 12 and I found the hidden key in position A[2488]
+Hi I am process 7955 with return arg 12 and I found the hidden key in position A[2567]
+Hi I am process 7949 with return arg 10 and my parent is 7947
+Hi I am process 7949 with return arg 10 and I found the hidden key in position A[2175]
+Hi I am process 7960 with return arg 32 and my parent is 7949
+Hi I am process 7960 with return arg 32 and I found the hidden key in position A[6501]
+Hi I am process 7964 with return arg 38 and my parent is 7955
+Hi I am process 7964 with return arg 38 and I found the hidden key in position A[7738]
+Hi I am process 7968 with return arg 20 and my parent is 7959
+Hi I am process 7947 with return arg 3 and my parent is 7946
+Hi I am process 7947 with return arg 3 and I found the hidden key in position A[640]
+Hi I am process 7970 with return arg 30 and my parent is 7958
+Hi I am process 7970 with return arg 30 and I found the hidden key in position A[6142]
+Hi I am process 8006 with return arg 46 and my parent is 7983
+Hi I am process 8006 with return arg 46 and I found the hidden key in position A[9285]
+Hi I am process 7979 with return arg 36 and my parent is 7952
+Hi I am process 7979 with return arg 36 and I found the hidden key in position A[7307]
+Hi I am process 7966 with return arg 29 and my parent is 7958
+Hi I am process 7966 with return arg 29 and I found the hidden key in position A[5975]
+Hi I am process 7966 with return arg 29 and I found the hidden key in position A[5987]
+Hi I am process 7952 with return arg 11 and my parent is 7947
+Hi I am process 7952 with return arg 11 and I found the hidden key in position A[2314]
+Hi I am process 7952 with return arg 11 and I found the hidden key in position A[2383]
+Hi I am process 7976 with return arg 35 and my parent is 7952
+Hi I am process 7976 with return arg 35 and I found the hidden key in position A[7062]
+Hi I am process 7981 with return arg 27 and my parent is 7954
+Hi I am process 7981 with return arg 27 and I found the hidden key in position A[5537]
+Hi I am process 7965 with return arg 19 and my parent is 1426
+Hi I am process 7961 with return arg 37 and my parent is 1426
+Hi I am process 8030 with return arg 45 and my parent is 7980
+Hi I am process 7980 with return arg 14 and my parent is 7953
+Hi I am process 7973 with return arg 34 and my parent is 1426
+Hi I am process 7958 with return arg 9 and my parent is 7948
+Hi I am process 7963 with return arg 28 and my parent is 1426
+Hi I am process 7954 with return arg 8 and my parent is 7948
+Hi I am process 7978 with return arg 26 and my parent is 7954
+Hi I am process 8023 with return arg 22 and my parent is 7951
+Hi I am process 8033 with return arg 18 and my parent is 7956
+Hi I am process 7948 with return arg 2 and my parent is 7946
+Hi I am process 8031 with return arg 16 and my parent is 7956
+Hi I am process 8043 with return arg 49 and my parent is 8031
+Hi I am process 7974 with return arg 25 and my parent is 1426
+Hi I am process 8032 with return arg 17 and my parent is 7956
+Hi I am process 7956 with return arg 5 and my parent is 7950
+Hi I am process 7951 with return arg 7 and my parent is 7948
+Hi I am process 7950 with return arg 1 and my parent is 7946
+Hi I am process 7957 with return arg 31 and my parent is 1426
+Hi I am process 8029 with return arg 24 and my parent is 7951
+Hi I am process 8026 with return arg 23 and my parent is 7951
+Hi I am process 8009 with return arg 47 and my parent is 7983
+Hi I am process 8027 with return arg 44 and my parent is 7980
+Hi I am process 8012 with return arg 48 and my parent is 7983
+Hi I am process 8036 with return arg 40 and my parent is 7977
+Hi I am process 8038 with return arg 41 and my parent is 7977
+Hi I am process 8039 with return arg 42 and my parent is 7977
+Hi I am process 8024 with return arg 43 and my parent is 1426
+Hi I am process 7953 with return arg 4 and my parent is 7950
+Hi I am process 7983 with return arg 15 and my parent is 7953
+Hi I am process 7977 with return arg 13 and my parent is 7953
+Hi I am process 7946 with return arg 0 and my parent is 1427
